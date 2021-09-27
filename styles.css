@@ -1,0 +1,68 @@
+body {
+  background-color: rgba(241, 253, 255, 0.781);
+}
+
+a {
+  font-size: 18px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+h1 {
+  text-align: center;
+  font-size: 100px;
+  margin-top: 250px;
+}
+
+h2 {
+  text-align: left;
+}
+
+.blue {
+  color: #1d67dd;
+}
+
+.red {
+  color: #ce3224;
+}
+
+.yellow {
+  color: #d8a50e;
+}
+
+.green {
+  color: #1acf4b;
+}
+
+.text-center {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+input {
+  padding: 10px;
+  text-align: center;
+}
+.bar {
+  border-radius: 50px;
+  width: 300px;
+}
+.baz {
+  width: 200px;
+  margin-top: 40px;
+  background-color: rgb(255, 251, 251);
+}
+
+div {
+  text-align: right;
+}
+
+.advanced_search {
+  margin-top: 150px;
+}

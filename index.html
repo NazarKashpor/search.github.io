@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Search</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div>
+        <a href="index2.html">Зображення</a>
+        <a href="index3.html">Розширений пошук</a>
+    </div>
+    <div>
+        <h1>
+            <span class="blue">З</span>
+            <span class="red">н</span>
+            <span class="yellow">а</span>
+            <span class="blue">й</span>
+            <span class="green">т</span>
+            <span class="red">и</span>
+        </h1>
+        <form action="https://google.com/search">
+            <input class="bar" type="text" name="q" >
+            <br>
+            <input class="baz" type="submit" value="Шукати" name="btnK">
+            <input class="baz" type="submit" value="Тобі пощастить" name="btnI">
+        </form>
+    </div> 
+</body>
+
+</html>
